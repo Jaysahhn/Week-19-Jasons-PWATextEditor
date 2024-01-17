@@ -40,6 +40,7 @@ export const getDb = async () => {
   const result = await request;
 
   console.log("Results read from database:", result);
+
   return result.value;
 };
 
