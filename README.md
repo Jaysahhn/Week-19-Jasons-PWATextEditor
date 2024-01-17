@@ -10,8 +10,8 @@ Node Package Manager (NPM), Express, NodeJS, Babel, IndexedDB, Javascript, Concu
 
 ## Usage
 
-Deployed Application: https://asimplepwatexteditor.onrender.com/
-[Screenshot](https://i.gyazo.com/a231d5118052497bd3bbd567803f7237.png)
+[Deployed Application](https://asimplepwatexteditor.onrender.com/) 
+![Screenshot](https://i.gyazo.com/a231d5118052497bd3bbd567803f7237.png)
 
 
 ## Credits
